@@ -32,9 +32,9 @@ function TableIndex() {
   }
 
 
-  // useEffect(() => {
-  //   calculateTotalEligibility();
-  // }, [])
+  useEffect(() => {
+    calculateTotalEligibility();
+  }, []);
 
 
   return (
