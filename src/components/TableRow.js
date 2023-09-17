@@ -4,8 +4,11 @@ function TableRow({ participant }) {
     // console.log(participant)
     return (
         <tr className=" border border-b-slate-200 odd:bg-white even:bg-gray-50">
-            <td className="Student_Name p-3 uppercase">{participant["Student Name"]}
-            {participant["Total Completions of both Pathways"] == "Yes"?'🏅':''}
+            <td className="Student_Name p-3 uppercase">
+                <a href={participant["Google Cloud Skills Boost Profile URL"]} target="_blank">
+                    {participant["Student Name"]}
+                    {participant["Total Completions of both Pathways"] == "Yes"?'🏅':''}
+                </a>
             </td>
 
             {/* <td className="Student_Email p-3">{participant["Student Email"]}</td> */}

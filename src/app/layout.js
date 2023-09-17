@@ -9,8 +9,8 @@ export const metadata = {
   title: "GDSC UVPCE",
   image: "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
   type: "website",
-  description: "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
-  keywords: ["gccp", "jams", "uvpce", "gdscuvpce"],
+  description: "This is the leaderboard for the GDSC GEU Cloud Study Jams.",
+  keywords: ["gcsj", "jams", "geu", "gdscgeu"],
   robots: "index,follow",
 
   // "og:title": "GDSC UVPCE GCCP Leaderboard",
