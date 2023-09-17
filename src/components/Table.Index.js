@@ -32,9 +32,9 @@ function TableIndex() {
   }
 
 
-  useEffect(() => {
-    calculateTotalEligibility();
-  }, [])
+  // useEffect(() => {
+  //   calculateTotalEligibility();
+  // }, [])
 
 
   return (
@@ -44,7 +44,7 @@ function TableIndex() {
 
         
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30"><p className="text-center text-lg">⭐ hola amigo ⭐</p>
-          <p>Cloud computing is like electricity. You use what you need, pay only for what you consume, and leave the infrastructure worries to someone else. It's the power to innovate without limitations. ☁️⚡</p>
+          <p>Cloud computing is like electricity. You use what you need, pay only for what you consume, and leave the infrastructure worries to someone else. Its the power to innovate without limitations. ☁️⚡</p>
           <p className='text-blue-600'>#CloudGoLoud #GDSCGEU #GoogleCloud #CloudStudyJams</p>
         </div>
 
