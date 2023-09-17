@@ -41,12 +41,14 @@ function TableIndex() {
     <div className='w-full relative px-3'>
 
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
-
-        
-        <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30"><p className="text-center text-lg">⭐ hola amigo ⭐</p>
-          <p>Cloud computing is like electricity. You use what you need, pay only for what you consume, and leave the infrastructure worries to someone else. Its the power to innovate without limitations. ☁️⚡</p>
+      <div className="sec m-auto my-6 space-y-8 w-1/2 mob:w-full flex flex-col">
+        <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
+          <p className="text-center text-lg">⭐ Itamori city town - 1:1 ⭐</p>
+          <img className="mx-auto p-6" src="https://i.pinimg.com/564x/f0/0d/ec/f00dec869f1de93466ea56d30d4abd2f.jpg" alt="img_1"></img>
           <p className='text-blue-600'>#CloudGoLoud #GDSCGEU #GoogleCloud #CloudStudyJams</p>
         </div>
+      </div>
+
 
         {/* <Speedometer
           completion={EligibleforSwags}
