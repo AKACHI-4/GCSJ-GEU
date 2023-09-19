@@ -42,9 +42,10 @@ function TableIndex() {
 
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
       <div className="sec m-auto my-6 space-y-8 w-1/2 mob:w-full flex flex-col">
-        <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
-          <p className="text-center text-lg">⭐ Itamori city town - 1:1 ⭐</p>
-          <img className="mx-auto p-6" src="https://i.pinimg.com/564x/f0/0d/ec/f00dec869f1de93466ea56d30d4abd2f.jpg" alt="img_1"></img>
+        <div className="message bg-blue-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-blue-300/30 text-center border border-blue-300/30">
+          <p className="text-center text-lg">⭐ what u seek is seeking u  ⭐</p>
+          <img className="mx-auto p-6" src="https://i.pinimg.com/originals/95/ca/c4/95cac4482f506b56a7f1c34d414e0cf6.gif" alt="img_1"></img>
+          <p className='text-green-600 font-semibold text-xl'>keep pushing...🚀</p>
           <p className='text-blue-600'>#CloudGoLoud #GDSCGEU #GoogleCloud #CloudStudyJams</p>
         </div>
       </div>

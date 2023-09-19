@@ -37,10 +37,10 @@ export default function Home() {
           `
         }
       </Script>
-      <nav className='w-full  shadow-md relative '>
-        <div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
+      <nav className='w-full shadow-md relative bg-gray-700'>
+        <div className="bg-blue-300 text-black w-full m-auto text-center p-2 flex justify-center items-center">
           <div className=""><Image src="/assets/cloudLg.png" alt="me" width="40" height="40" /></div>
-          <p className=''>
+          <p className='font-normal'>
             Google Cloud STUDY JAMS 23 - 24
           </p>
         </div>
@@ -50,9 +50,9 @@ export default function Home() {
             <div className="img w-16 h-1w-16 rounded-full ">
               <Image src="/assets/gdsc-logo.png" alt="me" width="64" height="64" />
             </div>
-            <div className="text flex flex-col justify-start items-start">
+            <div className="text flex flex-col justify-start items-start text-white">
               <p className="text-base">Google Devloper Student Club</p>
-              <p className="text-xs">Graphic Era - Dehradun</p>
+              <p className="text-xs text-gray-200">Graphic Era - Dehradun</p>
 
             </div>
           </div>

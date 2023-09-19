@@ -3,7 +3,7 @@ import React from "react";
 function TableRow({ participant }) {
     // console.log(participant)
     return (
-        <tr className=" border border-b-slate-200 odd:bg-white even:bg-gray-50">
+        <tr className=" border border-b-slate-200 odd:bg-white even:bg-orange-50">
             <td className="Student_Name p-3 uppercase">
                 <a href={participant["Google Cloud Skills Boost Profile URL"]} target="_blank">
                     {participant["Student Name"]}
