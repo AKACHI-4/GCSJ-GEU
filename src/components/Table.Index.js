@@ -41,11 +41,11 @@ function TableIndex() {
     <div className='w-full relative px-3'>
 
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
-      <div className="sec m-auto my-6 space-y-8 w-1/2 mob:w-full flex flex-col">
+      <div className="sec m-auto my-4 space-y-8 w-fit mob:w-full flex flex-col m-20">
         <div className="message bg-blue-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-blue-300/30 text-center border border-blue-300/30">
-          <p className="text-center text-lg">⭐ what u seek is seeking u  ⭐</p>
-          <img className="mx-auto p-6" src="https://i.pinimg.com/originals/95/ca/c4/95cac4482f506b56a7f1c34d414e0cf6.gif" alt="img_1"></img>
-          <p className='text-green-600 font-semibold text-xl'>keep pushing...🚀</p>
+          <p className="text-center text-xl font-bold">⭐ Golden Hour ⭐</p>
+          <img className="px-10" src="https://i.pinimg.com/originals/8e/88/43/8e8843c3fcc21a7a1dc9503b542d7b50.gif" alt="img_1"></img>
+          <p className='text-green-600 font-semibold text-xl mt-4 mb-1'>Drive completion with enthusiasm...🚀</p>
           <p className='text-blue-600'>#CloudGoLoud #GDSCGEU #GoogleCloud #CloudStudyJams</p>
         </div>
       </div>
@@ -66,7 +66,7 @@ function TableIndex() {
           </div>
         </div>
 
-        <div className="search m-auto mt-3 mob:py-3 py-2  space-x-5  flex justify-start items-center shadow-lg shadow-blue-400/30 bg-blue-50 w-full rounded-full">
+        <div className="search m-auto mt-3 mob:py-3 py-2 space-x-5  flex justify-start items-center shadow-lg shadow-blue-400/30 bg-blue-50 w-full rounded-full">
           <div className="icon px-3 "><svg xmlns="http://www.w3.org/2000/svg" className='h-5' viewBox="0 0 512 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z" fill="#3b82f6" /></svg></div>
           <div className="input w-full">
             <input
