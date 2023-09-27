@@ -42,17 +42,12 @@ function TableIndex() {
 
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
       <div className="sec m-auto my-4 space-y-8 w-fit mob:w-full flex flex-col m-20">
-        <div className="message bg-blue-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-blue-300/30 text-center border border-blue-300/30">
-          <p className="text-center text-xl font-bold mb-4">⭐  ⭐</p>
-          {/* <img className="px-10" src="https://i.pinimg.com/originals/8e/88/43/8e8843c3fcc21a7a1dc9503b542d7b50.gif" alt="img_1"></img> */}
-          <video className="mx-auto" width="400" height="400" controls>
-            <source src="/vd1.webm" type="video/webm" />
-            <source src="/vd1.ogg" type="video/ogg" />
-          </video>
-          <p className='text-green-600 font-semibold text-xl mt-4 mb-1'>Drive completion with enthusiasm...🚀</p>
-          <p className='text-blue-600'>#CloudGoLoud #GDSCGEU #GoogleCloud #CloudStudyJams</p>
+        <div className="message py-4 md:py-1 bg-blue-100 text-yellow-700 md:p-5 rounded-lg shadow-lg shadow-blue-300/30 text-center border border-blue-300/30">
+          <p className='text-green-600 text-center text-xl mb-4 px-4 font-semibold'>We're wrapping up here. Don't forget to watch the video!</p>
+          <iframe className="mx-auto p-auto justify-center text-center mb:my-2" src="https://assets.pinterest.com/ext/embed.html?id=2251868556519589" width="80%" height="430" frameborder="0" scrolling="no"></iframe>
         </div>
       </div>
+
 
 
         {/* <Speedometer
