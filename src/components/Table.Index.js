@@ -42,9 +42,9 @@ function TableIndex() {
 
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
       <div className="sec m-auto my-4 space-y-8 w-fit mob:w-full flex flex-col m-20">
-        <div className="message py-4 md:py-1 bg-blue-100 text-yellow-700 md:p-5 rounded-lg shadow-lg shadow-blue-300/30 text-center border border-blue-300/30">
-          <p className='text-green-600 text-center text-xl mb-4 px-4 font-semibold'>We're wrapping up here. Don't forget to watch the video!</p>
-          <iframe className="mx-auto p-auto justify-center text-center mb:my-2" src="https://assets.pinterest.com/ext/embed.html?id=2251868556519589" width="80%" height="430" frameborder="0" scrolling="no"></iframe>
+        <div className="message py-2 bg-gray-100 text-yellow-700 p-6 rounded-lg shadow-lg shadow-gray-200 text-center border border-dashed border-gray-300">
+          <p className='text-black text-center text-xl my-2 font-mono'>Huge Thanks to all ❤️</p>
+          {/* <iframe className="mx-auto p-auto justify-center text-center mb:my-2" src="https://assets.pinterest.com/ext/embed.html?id=2251868556519589" width="80%" height="430" frameborder="0" scrolling="no"></iframe> */}
         </div>
       </div>
 
