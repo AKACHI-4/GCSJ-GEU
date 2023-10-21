@@ -43,7 +43,7 @@ function TableIndex() {
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
       <div className="sec m-auto my-4 space-y-8 w-fit mob:w-full flex flex-col m-20">
         <div className="message py-2 bg-gray-100 text-yellow-700 p-6 rounded-lg shadow-lg shadow-gray-200 text-center border border-dashed border-gray-300">
-          <p className='text-black text-center text-xl my-2 font-mono'>Hey top 80's ❤️</p>
+          <p className='text-black text-center text-xl my-2 font-mono'>Hey top 80s ❤️</p>
           {/* <iframe className="mx-auto p-auto justify-center text-center mb:my-2" src="https://assets.pinterest.com/ext/embed.html?id=2251868556519589" width="80%" height="430" frameborder="0" scrolling="no"></iframe> */}
         </div>
       </div>
